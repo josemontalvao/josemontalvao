@@ -4,13 +4,6 @@
 - 🌱 No momento faço também curso de C# Asp.NET
 - 🤔 Estou procurando uma recolocação Profissional dentro da área de TI -->
 
-<div align="center">
-  <a href="https://github.com/josemontalvao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josemontalvao&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemontalvao&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-
-
 <div style="display: inline_block"><br>
 <h1>Tecnologias<h1/>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
