@@ -1,5 +1,12 @@
 ## Olá, eu sou o José Antonio ! 👋
 
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=josemontalvao&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemontalvao&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
+
 - 🔭Atualmente estou estudando Análise e Desenvolvimento de Sistemas na Universidade Padre Anchieta - UNIANCHIETA
 - 🌱 No momento faço também curso de C# Asp.NET
 - 🤔 Estou procurando uma recolocação Profissional dentro da área de TI -->
