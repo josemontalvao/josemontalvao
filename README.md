@@ -25,8 +25,7 @@
 <div>
 <h1>Como me contatar<h1/> 
   <a href = "mailto:jokmontalvao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jose-montalvao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/jokmontalvao" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjokmontalvao"></a>
+  <a href="https://www.linkedin.com/in/jose-montalvao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://www.instagram.com/joseantoniomontalvao" target="_blank"><img src="https://img.shields.io/twitter/url?style=social" target="_blank"></a>
 </div>
 
