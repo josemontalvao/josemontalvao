@@ -26,7 +26,7 @@
 <h1>Como me contatar<h1/> 
   <a href = "mailto:jokmontalvao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jose-montalvao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href="https://www.instagram.com/joseantoniomontalvao" target="_blank"><img src="https://img.shields.io/twitter/url?style=social" target="_blank"></a>
+   <a href="https://www.instagram.com/joseantoniomontalvao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 ![Snake animation](https://github.com/josemontalvao/josemontalvao/blob/output/github-contribution-grid-snake.svg)
